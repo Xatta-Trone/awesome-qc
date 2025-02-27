@@ -4,12 +4,16 @@
 
 A thoughtfully curated collection of exceptional libraries, projects, tutorials, research papers, and other resources dedicated to Quantum Computing. This repository serves as a well-structured and comprehensive resource hub, designed to support and guide researchers, developers, and enthusiasts navigating the rapidly evolving field of quantum computing.
 
+Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
+
+## Last Updated
+February 21, 2025 at 06:42:30 AM UTC
+
 ## Table of Contents
 
 - [Awesome QC(Quantum Computing)](#awesome-qcquantum-computing)
   - [Table of Contents](#table-of-contents)
   - [Papers](#papers)
-    - [Theorem](#theorem)
   - [Library](#library)
   - [Discussion](#discussion)
   - [Tutorial](#tutorial)
