@@ -7,7 +7,8 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-February 21, 2025 at 06:42:30 AM UTC
+March 8, 2025 at 01:08:37 AM UTC
+
 
 ## Table of Contents
 
@@ -22,7 +23,6 @@ February 21, 2025 at 06:42:30 AM UTC
   - [Star History](#star-history)
 
 ## Papers
-
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -95,6 +95,9 @@ February 21, 2025 at 06:42:30 AM UTC
 - [Advancements in quantum computing and their implications for software development](https://www.researchgate.net/publication/383831739_Advancements_in_quantum_computing_and_their_implications_for_software_development)
 - [Quantum Shuttle: Traffic Navigation with Quantum Computing](https://arxiv.org/abs/2006.14162)
 - [Design of an improved quantum-inspired evolutionary algorithm for a transportation problem in logistics systems](https://link.springer.com/article/10.1007/s10845-011-0568-7)
+- [Network-assisted collective operations for efficient distributed quantum computing](https://arxiv.org/abs/2502.19118)
+- [Comparison of encoding schemes for quantum computing of S>1/2S > 1/2 spin chains](https://arxiv.org/abs/2502.18838)
+
 
 ### Theorem
 
