@@ -53,11 +53,10 @@ import fs from "fs";
               submittedDate,
             };
           })
-          .filter(
-            (paper) =>
-              (paper.submittedDate.includes(todayFormatted) ||
-                paper.submittedDate.includes(yesterdayFormatted)) &&
-              paper.title.toLowerCase().includes("quantum computing")
+          .filter((paper) =>
+            // (paper.submittedDate.includes(todayFormatted) ||
+            //   paper.submittedDate.includes(yesterdayFormatted)) &&
+            paper.title.toLowerCase().includes("quantum computing")
           ) // Match today's or yesterday's date
           .map(({ title, link }) => ({
             title,
