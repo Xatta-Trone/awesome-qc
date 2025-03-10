@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-March 9, 2025 at 01:14:04 AM UTC
+March 10, 2025 at 01:11:58 AM UTC
 
 
 ## Table of Contents
@@ -97,6 +97,8 @@ March 9, 2025 at 01:14:04 AM UTC
 - [Design of an improved quantum-inspired evolutionary algorithm for a transportation problem in logistics systems](https://link.springer.com/article/10.1007/s10845-011-0568-7)
 - [Network-assisted collective operations for efficient distributed quantum computing](https://arxiv.org/abs/2502.19118)
 - [Comparison of encoding schemes for quantum computing of S>1/2S > 1/2 spin chains](https://arxiv.org/abs/2502.18838)
+- [De Novo Design of Protein-Binding Peptides by Quantum Computing](https://arxiv.org/abs/2503.05458)
+- [Characterizing Dynamic Majorana Hybridization for Universal Quantum Computing](https://arxiv.org/abs/2403.02481)
 
 
 ### Theorem
