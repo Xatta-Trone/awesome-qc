@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-March 11, 2025 at 01:25:38 AM UTC
+March 12, 2025 at 01:24:28 AM UTC
 
 
 ## Table of Contents
@@ -100,6 +100,7 @@ March 11, 2025 at 01:25:38 AM UTC
 - [De Novo Design of Protein-Binding Peptides by Quantum Computing](https://arxiv.org/abs/2503.05458)
 - [Characterizing Dynamic Majorana Hybridization for Universal Quantum Computing](https://arxiv.org/abs/2403.02481)
 - [The Art of Optimizing T-Depth for Quantum Error Correction in Large-Scale Quantum Computing](https://arxiv.org/abs/2503.06045)
+- [Systematic Computation of Braid Generator Matrix in Topological Quantum Computing](https://arxiv.org/abs/2307.01892)
 
 
 ### Theorem
