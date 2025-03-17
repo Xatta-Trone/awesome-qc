@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-March 16, 2025 at 01:38:32 AM UTC
+March 17, 2025 at 01:27:52 AM UTC
 
 
 ## Table of Contents
@@ -105,6 +105,7 @@ March 16, 2025 at 01:38:32 AM UTC
 - [The Q-Spellbook: Crafting Surface Code Layouts and Magic State Protocols for Large-Scale Quantum Computing](https://arxiv.org/abs/2502.11253)
 - [Tensor networks for quantum computing](https://arxiv.org/abs/2503.08626)
 - [Globally driven superconducting quantum computing architecture](https://arxiv.org/abs/2407.01182)
+- [On the Limits of Distributed Quantum Computing](https://arxiv.org/abs/2503.11394)
 
 
 ### Theorem
