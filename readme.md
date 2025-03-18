@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-March 17, 2025 at 01:27:52 AM UTC
+March 18, 2025 at 01:25:45 AM UTC
 
 
 ## Table of Contents
@@ -106,6 +106,9 @@ March 17, 2025 at 01:27:52 AM UTC
 - [Tensor networks for quantum computing](https://arxiv.org/abs/2503.08626)
 - [Globally driven superconducting quantum computing architecture](https://arxiv.org/abs/2407.01182)
 - [On the Limits of Distributed Quantum Computing](https://arxiv.org/abs/2503.11394)
+- [Scaling up to Problem Sizes: An Environmental Life Cycle Assessment of Quantum Computing](https://arxiv.org/abs/2411.00118)
+- [Potential Applications of Quantum Computing at Los Alamos National Laboratory](https://arxiv.org/abs/2406.06625)
+- [Lie-algebraic classical simulations for quantum computing](https://arxiv.org/abs/2308.01432)
 
 
 ### Theorem
