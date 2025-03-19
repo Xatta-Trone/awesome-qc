@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-March 18, 2025 at 01:25:45 AM UTC
+March 19, 2025 at 01:26:42 AM UTC
 
 
 ## Table of Contents
@@ -109,6 +109,8 @@ March 18, 2025 at 01:25:45 AM UTC
 - [Scaling up to Problem Sizes: An Environmental Life Cycle Assessment of Quantum Computing](https://arxiv.org/abs/2411.00118)
 - [Potential Applications of Quantum Computing at Los Alamos National Laboratory](https://arxiv.org/abs/2406.06625)
 - [Lie-algebraic classical simulations for quantum computing](https://arxiv.org/abs/2308.01432)
+- [Digital-analog quantum computing of fermion-boson models in superconducting circuits](https://arxiv.org/abs/2308.12040)
+- [Qutes: A High-Level Quantum Programming Language for Simplified Quantum Computing](https://arxiv.org/abs/2503.13084)
 
 
 ### Theorem
