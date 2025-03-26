@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-March 25, 2025 at 01:27:45 AM UTC
+March 26, 2025 at 01:26:59 AM UTC
 
 
 ## Table of Contents
@@ -114,6 +114,10 @@ March 25, 2025 at 01:27:45 AM UTC
 - [Cyber Threats in Financial Transactions -- Addressing the Dual Challenge of AI and Quantum Computing](https://arxiv.org/abs/2503.15678)
 - [Solving Drone Routing Problems with Quantum Computing: A Hybrid Approach Combining Quantum Annealing and Gate-Based Paradigms](https://arxiv.org/abs/2501.18432)
 - [QITE: Assembly-Level, Cross-Platform Testing of Quantum Computing Platforms](https://arxiv.org/abs/2503.17322)
+- [Leveraging Quantum Computing for Accelerated Classical Algorithms in Power Systems Optimization](https://arxiv.org/abs/2503.19112)
+- [Notes on Quantum Computing for Thermal Science](https://arxiv.org/abs/2503.19109)
+- [Quantum Computing for Automotive Applications](https://arxiv.org/abs/2409.14183)
+- [Hardware-Software Co-design for Distributed Quantum Computing](https://arxiv.org/abs/2503.18329)
 
 
 ### Theorem
