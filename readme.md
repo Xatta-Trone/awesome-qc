@@ -22,7 +22,7 @@ March 26, 2025 at 01:26:59 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers
+## Papers (123)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
