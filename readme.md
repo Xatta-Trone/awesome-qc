@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-April 1, 2025 at 01:45:52 AM UTC
+April 2, 2025 at 01:36:42 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ April 1, 2025 at 01:45:52 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (99)
+## Papers (100)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -122,6 +122,7 @@ April 1, 2025 at 01:45:52 AM UTC
 - [Unleashed from Constrained Optimization: Quantum Computing for Quantum Chemistry Employing Generator Coordinate Inspired Method](https://arxiv.org/abs/2312.07691)
 - [Quantum Computing in Transport Science: A Review](https://arxiv.org/abs/2503.21302)
 - [Quantum Computing for Energy Correlators](https://arxiv.org/abs/2409.13830)
+- [Quantum computing of chirality imbalance in SU(2) gauge theory](https://arxiv.org/abs/2411.18869)
 
 
 ### Theorem
