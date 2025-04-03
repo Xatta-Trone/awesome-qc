@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-April 2, 2025 at 01:36:42 AM UTC
+April 3, 2025 at 01:27:18 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ April 2, 2025 at 01:36:42 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (100)
+## Papers (104)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -123,6 +123,10 @@ April 2, 2025 at 01:36:42 AM UTC
 - [Quantum Computing in Transport Science: A Review](https://arxiv.org/abs/2503.21302)
 - [Quantum Computing for Energy Correlators](https://arxiv.org/abs/2409.13830)
 - [Quantum computing of chirality imbalance in SU(2) gauge theory](https://arxiv.org/abs/2411.18869)
+- [Nonlinearity of the Fidelity in Open Qudit Systems: Gate and Noise Dependence in High-dimensional Quantum Computing](https://arxiv.org/abs/2406.15141)
+- [Quantum Computing for Optimizing Aircraft Loading](https://arxiv.org/abs/2504.01567)
+- [Solving the Traveling Salesman Problem via Different Quantum Computing Architectures](https://arxiv.org/abs/2502.17725)
+- [A minimal Introduction to Quantum Computing](https://arxiv.org/abs/2504.00995)
 
 
 ### Theorem
