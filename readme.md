@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-April 7, 2025 at 01:38:23 AM UTC
+April 8, 2025 at 01:27:53 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ April 7, 2025 at 01:38:23 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (106)
+## Papers (108)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -129,6 +129,8 @@ April 7, 2025 at 01:38:23 AM UTC
 - [A minimal Introduction to Quantum Computing](https://arxiv.org/abs/2504.00995)
 - [Minimally Universal Parity Quantum Computing](https://arxiv.org/abs/2504.03556)
 - [Quantum computing for corrosion-resistant materials and anti-corrosive coatings design](https://arxiv.org/abs/2406.18759)
+- [Impact of Error Rate Misreporting on Resource Allocation in Multi-tenant Quantum Computing and Defense](https://arxiv.org/abs/2504.04285)
+- [Addressing ecological challenges from a quantum computing perspective](https://arxiv.org/abs/2504.03866)
 
 
 ### Theorem
