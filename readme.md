@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-April 10, 2025 at 01:27:58 AM UTC
+April 11, 2025 at 01:36:39 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ April 10, 2025 at 01:27:58 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (111)
+## Papers (112)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -134,6 +134,7 @@ April 10, 2025 at 01:27:58 AM UTC
 - [AriaQuanta: A Quantum Software for Quantum Computing](https://arxiv.org/abs/2504.06024)
 - [Quantum Computing: Vision and Challenges](https://arxiv.org/abs/2403.02240)
 - [Solving Power System Problems using Adiabatic Quantum Computing](https://arxiv.org/abs/2504.06458)
+- [A quantum computing approach to beam angle optimization](https://arxiv.org/abs/2504.07844)
 
 
 ### Theorem
