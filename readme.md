@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-April 14, 2025 at 01:39:52 AM UTC
+April 15, 2025 at 01:39:19 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ April 14, 2025 at 01:39:52 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (114)
+## Papers (115)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -137,6 +137,7 @@ April 14, 2025 at 01:39:52 AM UTC
 - [A quantum computing approach to beam angle optimization](https://arxiv.org/abs/2504.07844)
 - [A Primer on Security of Quantum Computing Hardware](https://arxiv.org/abs/2305.02505)
 - [Hybrid Reinforcement Learning-based Sustainable Multi-User Computation Offloading for Mobile Edge-Quantum Computing](https://arxiv.org/abs/2504.08134)
+- [Identifying Protein Co-regulatory Network Logic by Solving B-SAT Problems through Gate-based Quantum Computing](https://arxiv.org/abs/2504.09365)
 
 
 ### Theorem
