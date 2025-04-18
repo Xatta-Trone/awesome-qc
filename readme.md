@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-April 17, 2025 at 01:37:20 AM UTC
+April 18, 2025 at 01:36:41 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ April 17, 2025 at 01:37:20 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (119)
+## Papers (121)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -142,6 +142,8 @@ April 17, 2025 at 01:37:20 AM UTC
 - [Compact laser system with frequency stability dissemination for optical clocks and quantum computing](https://arxiv.org/abs/2504.11105)
 - [An energy optimization method based on mixed-integer model and variational quantum computing algorithm for faster IMPT](https://arxiv.org/abs/2504.10315)
 - [Lecture notes on quantum computing](https://arxiv.org/abs/2311.08445)
+- [Quantum Computing Supported Adversarial Attack-Resilient Autonomous Vehicle Perception Module for Traffic Sign Classification](https://arxiv.org/abs/2504.12644)
+- [In-situ mid-circuit qubit measurement and reset in a single-species trapped-ion quantum computing system](https://arxiv.org/abs/2504.12544)
 
 
 ### Theorem
