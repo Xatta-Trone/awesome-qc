@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-April 23, 2025 at 01:38:32 AM UTC
+April 24, 2025 at 01:38:32 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ April 23, 2025 at 01:38:32 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (121)
+## Papers (122)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -144,6 +144,7 @@ April 23, 2025 at 01:38:32 AM UTC
 - [Lecture notes on quantum computing](https://arxiv.org/abs/2311.08445)
 - [Quantum Computing Supported Adversarial Attack-Resilient Autonomous Vehicle Perception Module for Traffic Sign Classification](https://arxiv.org/abs/2504.12644)
 - [In-situ mid-circuit qubit measurement and reset in a single-species trapped-ion quantum computing system](https://arxiv.org/abs/2504.12544)
+- [QGeo: A Python package for calculating geodesic control functions for quantum computing](https://arxiv.org/abs/2504.16157)
 
 
 ### Theorem
