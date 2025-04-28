@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-April 27, 2025 at 01:43:17 AM UTC
+April 28, 2025 at 01:41:50 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ April 27, 2025 at 01:43:17 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (124)
+## Papers (127)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -147,6 +147,9 @@ April 27, 2025 at 01:43:17 AM UTC
 - [QGeo: A Python package for calculating geodesic control functions for quantum computing](https://arxiv.org/abs/2504.16157)
 - [Quantum coherence and counterdiabatic quantum computing](https://arxiv.org/abs/2504.17642)
 - [OneAdapt: Adaptive Compilation for Resource-Constrained Photonic One-Way Quantum Computing](https://arxiv.org/abs/2504.17116)
+- [Classical Interfaces for Controlling Cryogenic Quantum Computing Technologies](https://arxiv.org/abs/2504.18527)
+- [Optimizing Resource Allocation in a Distributed Quantum Computing Cloud: A Game-Theoretic Approach](https://arxiv.org/abs/2504.18298)
+- [Advancing Superconducting Qubits: CMOS-Compatible Processing and Room Temperature Characterization for Scalable Quantum Computing beyond 2D Architectures](https://arxiv.org/abs/2504.18173)
 
 
 ### Theorem
