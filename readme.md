@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-May 13, 2025 at 01:42:10 AM UTC
+May 14, 2025 at 01:41:19 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ May 13, 2025 at 01:42:10 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (139)
+## Papers (141)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -162,6 +162,8 @@ May 13, 2025 at 01:42:10 AM UTC
 - [Barren Plateaus in Variational Quantum Computing](https://arxiv.org/abs/2405.00781)
 - [Distributed Tensor Network Library for Quantum Computing Emulation](https://arxiv.org/abs/2505.06119)
 - [Quantum Computing Based Design of Multivariate Porous Materials](https://arxiv.org/abs/2502.06339)
+- [Modeling Quantum Links for the Exploration of Distributed Quantum Computing Systems](https://arxiv.org/abs/2505.08577)
+- [Distributed Quantum Neural Networks on Distributed Photonic Quantum Computing](https://arxiv.org/abs/2505.08474)
 
 
 ### Theorem
