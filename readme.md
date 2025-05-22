@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-May 21, 2025 at 01:42:36 AM UTC
+May 22, 2025 at 01:41:47 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ May 21, 2025 at 01:42:36 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (145)
+## Papers (149)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -168,6 +168,10 @@ May 21, 2025 at 01:42:36 AM UTC
 - [Unlocking early fault-tolerant quantum computing with mitigated magic dilution](https://arxiv.org/abs/2505.10513)
 - [Quantum Computing and AI: Perspectives on Advanced Automation in Science and Engineering](https://arxiv.org/abs/2505.10012)
 - [Quantum computing with atomic qubit arrays: confronting the cost of connectivity](https://arxiv.org/abs/2505.11218)
+- [Resource Management and Circuit Scheduling for Distributed Quantum Computing Interconnect Networks](https://arxiv.org/abs/2409.12675)
+- [Pursuit and Review of Magnetic Resonance Imaging (MRI) based Quantum Computing -- Qubit Generation, Spin Purification, Tailored RF Pulses and MRI Sequences for Quantum Computing](https://arxiv.org/abs/2505.12778)
+- [Introducing Quantum Computing to High-School Curricula: A Global Perspective](https://arxiv.org/abs/2505.14809)
+- [Distributed quantum computing with black-box subroutines](https://arxiv.org/abs/2505.14519)
 
 
 ### Theorem
