@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-June 1, 2025 at 01:59:42 AM UTC
+June 2, 2025 at 01:47:43 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ June 1, 2025 at 01:59:42 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (156)
+## Papers (159)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -179,6 +179,9 @@ June 1, 2025 at 01:59:42 AM UTC
 - [Quantum computing of magnetic-skyrmion-like patterns in Heisenberg ferromagnets](https://arxiv.org/abs/2505.19808)
 - [Graded Paraparticle Algebra of Majorana Fields for Multidimensional Quantum Computing with Structured Light](https://arxiv.org/abs/2505.23232)
 - [Routing-Aware Placement for Zoned Neutral Atom-based Quantum Computing](https://arxiv.org/abs/2505.22715)
+- [Quantum computing from a mathematical perspective: a description of the quantum circuit model](https://arxiv.org/abs/1810.08277)
+- [Quantum DeepONet: Neural operators accelerated by quantum computing](https://arxiv.org/abs/2409.15683)
+- [Quantum computing and artificial intelligence: status and perspectives](https://arxiv.org/abs/2505.23860)
 
 
 ### Theorem
