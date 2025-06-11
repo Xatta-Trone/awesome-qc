@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-June 10, 2025 at 01:45:47 AM UTC
+June 11, 2025 at 01:45:17 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ June 10, 2025 at 01:45:47 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (160)
+## Papers (162)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -183,6 +183,8 @@ June 10, 2025 at 01:45:47 AM UTC
 - [Quantum DeepONet: Neural operators accelerated by quantum computing](https://arxiv.org/abs/2409.15683)
 - [Quantum computing and artificial intelligence: status and perspectives](https://arxiv.org/abs/2505.23860)
 - [Agents for self-driving laboratories applied to quantum computing](https://arxiv.org/abs/2412.07978)
+- [Deep reinforcement learning for near-deterministic preparation of cubic- and quartic-phase gates in photonic quantum computing](https://arxiv.org/abs/2506.07859)
+- [Kirkwood-Dirac Nonpositivity is a Necessary Resource for Quantum Computing](https://arxiv.org/abs/2506.08092)
 
 
 ### Theorem
