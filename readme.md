@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-June 23, 2025 at 01:51:38 AM UTC
+June 24, 2025 at 01:46:06 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ June 23, 2025 at 01:51:38 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (166)
+## Papers (167)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -189,6 +189,7 @@ June 23, 2025 at 01:51:38 AM UTC
 - [Comparison of schemes for highly loss tolerant photonic fusion based quantum computing](https://arxiv.org/abs/2506.11975)
 - [Ab Initio Polaritonic Chemistry on Diverse Quantum Computing Platforms: Qubit, Qudit, and Hybrid Qubit-Qumode Architectures](https://arxiv.org/abs/2506.12504)
 - [Optimal Compilation Strategies for QFT Circuits in Neutral-Atom Quantum Computing](https://arxiv.org/abs/2506.15116)
+- [No Scratch Quantum Computing by Reducing Qubit Overhead for Efficient Arithmetics](https://arxiv.org/abs/2506.17135)
 
 
 ### Theorem
