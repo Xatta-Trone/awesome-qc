@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-July 8, 2025 at 01:46:44 AM UTC
+July 9, 2025 at 01:47:59 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ July 8, 2025 at 01:46:44 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (184)
+## Papers (186)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -207,6 +207,8 @@ July 8, 2025 at 01:46:44 AM UTC
 - [Future Impact of Quantum Computing on the Computational Landscape of Power Electronics: A Short Tutorial](https://arxiv.org/abs/2507.02577)
 - [Generalized tensor transforms and their applications in classical and quantum computing](https://arxiv.org/abs/2507.02420)
 - [Awesome Quantum Computing Experiments: Benchmarking Experimental Progress Towards Fault-Tolerant Quantum Computation](https://arxiv.org/abs/2507.03678)
+- [Quantum Computing and Cybersecurity in Accounting and Finance: Current and Future Challenges and the Opportunities for Securing Accounting and Finance Systems in the Post-Quantum World](https://arxiv.org/abs/2506.12096)
+- [When Federated Learning Meets Quantum Computing: Survey and Research Opportunities](https://arxiv.org/abs/2504.08814)
 
 
 ### Theorem
