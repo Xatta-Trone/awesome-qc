@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-July 16, 2025 at 01:51:19 AM UTC
+July 17, 2025 at 01:51:56 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ July 16, 2025 at 01:51:19 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (190)
+## Papers (193)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -213,6 +213,9 @@ July 16, 2025 at 01:51:19 AM UTC
 - [End-to-end switchless architecture for fault-tolerant photonic quantum computing](https://arxiv.org/abs/2412.12680)
 - [On the Impact of Classical and Quantum Communication Networks Upon Modular Quantum Computing Architecture System Performance](https://arxiv.org/abs/2507.08378)
 - [From Research to Resources: Assessing Student Understanding and Skills in Quantum Computing](https://arxiv.org/abs/2507.09656)
+- [Fault-tolerant fermionic quantum computing](https://arxiv.org/abs/2411.08955)
+- [Benchmarking fault-tolerant quantum computing hardware via QLOPS](https://arxiv.org/abs/2507.12024)
+- [Time-Aware Qubit Assignment and Circuit Optimization for Distributed Quantum Computing](https://arxiv.org/abs/2507.11707)
 
 
 ### Theorem
