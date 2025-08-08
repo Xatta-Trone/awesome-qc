@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-August 7, 2025 at 01:56:17 AM UTC
+August 8, 2025 at 01:55:35 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ August 7, 2025 at 01:56:17 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (204)
+## Papers (206)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -227,6 +227,8 @@ August 7, 2025 at 01:56:17 AM UTC
 - [Dynamical mean field theory with quantum computing](https://arxiv.org/abs/2508.00118)
 - [TensoMeta-VQC: A Tensor-Train-Guided Meta-Learning Framework for Robust and Scalable Variational Quantum Computing](https://arxiv.org/abs/2508.01116)
 - [Fault-tolerant Fusion-based Quantum Computing with the Four-legged Cat Code](https://arxiv.org/abs/2508.03796)
+- [QFOR: A Fidelity-aware Orchestrator for Quantum Computing Environments using Deep Reinforcement Learning](https://arxiv.org/abs/2508.04974)
+- [Fault-Tolerant Universal Quantum Computing in the Presence of Anisotropic Noise](https://arxiv.org/abs/2508.04892)
 
 
 ### Theorem
