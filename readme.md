@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-August 14, 2025 at 01:47:11 AM UTC
+August 15, 2025 at 01:47:35 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ August 14, 2025 at 01:47:11 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (211)
+## Papers (214)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -234,6 +234,9 @@ August 14, 2025 at 01:47:11 AM UTC
 - [Integrating Quantum Computing with Multiconfiguration Pair-Density Functional Theory for Biological Electron Transfer](https://arxiv.org/abs/2508.07359)
 - [Bridging Classical and Quantum Computing for Next-Generation Language Models](https://arxiv.org/abs/2508.07026)
 - [Procedural Generation and Games at the Dawn of Fault Tolerant Quantum Computing](https://arxiv.org/abs/2508.09683)
+- [Scalable platform for qudit-based quantum computing using polar molecules](https://arxiv.org/abs/2508.10850)
+- [AEGISS -- Atomic orbital and Entropy-based Guided Inference for Space Selection -- A novel semi-automated active space selection workflow for quantum chemistry and quantum computing applications](https://arxiv.org/abs/2508.10671)
+- [Projective Measurements: Topological Quantum Computing with an Arbitrary Number of Qubits](https://arxiv.org/abs/2508.10107)
 
 
 ### Theorem
