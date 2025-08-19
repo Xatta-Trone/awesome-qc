@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-August 18, 2025 at 01:53:21 AM UTC
+August 19, 2025 at 01:41:33 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ August 18, 2025 at 01:53:21 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (214)
+## Papers (215)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -237,6 +237,7 @@ August 18, 2025 at 01:53:21 AM UTC
 - [Scalable platform for qudit-based quantum computing using polar molecules](https://arxiv.org/abs/2508.10850)
 - [AEGISS -- Atomic orbital and Entropy-based Guided Inference for Space Selection -- A novel semi-automated active space selection workflow for quantum chemistry and quantum computing applications](https://arxiv.org/abs/2508.10671)
 - [Projective Measurements: Topological Quantum Computing with an Arbitrary Number of Qubits](https://arxiv.org/abs/2508.10107)
+- [The Role of Quantum Computing in Advancing Scientific High-Performance Computing: A perspective from the ADAC Institute](https://arxiv.org/abs/2508.11765)
 
 
 ### Theorem
