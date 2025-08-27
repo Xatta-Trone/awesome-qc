@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-August 26, 2025 at 01:40:36 AM UTC
+August 27, 2025 at 01:37:27 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ August 26, 2025 at 01:40:36 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (221)
+## Papers (224)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -244,6 +244,9 @@ August 26, 2025 at 01:40:36 AM UTC
 - [Universal Error Correction for Distributed Quantum Computing](https://arxiv.org/abs/2508.15580)
 - [Optimizing Compilation for Distributed Quantum Computing via Clustering and Annealing](https://arxiv.org/abs/2508.15267)
 - [Literature Review of the Effect of Quantum Computing on Cryptocurrencies using Blockchain Technology](https://arxiv.org/abs/2508.17296)
+- [Efficient and scalable inter-module switching for distributed quantum computing architectures](https://arxiv.org/abs/2508.19088)
+- [Quantum computing on encrypted data with arbitrary rotation gates](https://arxiv.org/abs/2508.18811)
+- [Potential of Quantum Computing Applications for Smart Grid Digital Twins and Future Directions](https://arxiv.org/abs/2508.18654)
 
 
 ### Theorem
