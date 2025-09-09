@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-September 8, 2025 at 01:39:19 AM UTC
+September 9, 2025 at 01:36:23 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ September 8, 2025 at 01:39:19 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (234)
+## Papers (235)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -257,6 +257,7 @@ September 8, 2025 at 01:39:19 AM UTC
 - [Quantum Zeno effect versus adiabatic quantum computing and quantum annealing](https://arxiv.org/abs/2509.04057)
 - [Quantum Computing for Discrete Optimization: A Highlight of Three Technologies](https://arxiv.org/abs/2409.01373)
 - [LATTE: A Decoding Architecture for Quantum Computing with Temporal and Spatial Scalability](https://arxiv.org/abs/2509.03954)
+- [Interfacing Quantum Computing Systems with High-Performance Computing Systems: An Overview](https://arxiv.org/abs/2509.06205)
 
 
 ### Theorem
