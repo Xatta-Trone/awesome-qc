@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-September 16, 2025 at 01:25:13 AM UTC
+September 17, 2025 at 01:25:22 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ September 16, 2025 at 01:25:13 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (239)
+## Papers (242)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -262,6 +262,9 @@ September 16, 2025 at 01:25:13 AM UTC
 - [Evolutionary-Based Circuit Optimization for Distributed Quantum Computing](https://arxiv.org/abs/2509.08074)
 - [Quantum Computing Technology Roadmaps and Capability Assessment for Scientific Computing -- An analysis of use cases from the NERSC workload](https://arxiv.org/abs/2509.09882)
 - [Fault-Resilience of Dissipative Processes for Quantum Computing](https://arxiv.org/abs/2502.20374)
+- [Mitigating the sign problem by quantum computing](https://arxiv.org/abs/2509.13017)
+- [Quantum Computing Tools for Fast Detection of Gravitational Waves in the Context of LISA Space Mission](https://arxiv.org/abs/2509.12929)
+- [Extension of the Jordan-Wigner mapping to nonorthogonal spin orbitals for quantum computing application to valence bond approaches](https://arxiv.org/abs/2509.12680)
 
 
 ### Theorem
