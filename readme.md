@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-September 21, 2025 at 01:41:59 AM UTC
+September 22, 2025 at 01:41:49 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ September 21, 2025 at 01:41:59 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (244)
+## Papers (246)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -267,6 +267,8 @@ September 21, 2025 at 01:41:59 AM UTC
 - [Extension of the Jordan-Wigner mapping to nonorthogonal spin orbitals for quantum computing application to valence bond approaches](https://arxiv.org/abs/2509.12680)
 - [Quantum Computing Universal Thermalization Dynamics in a (2+1)D Lattice Gauge Theory](https://arxiv.org/abs/2408.00069)
 - [Full programmable quantum computing with trapped-ions using semi-global fields](https://arxiv.org/abs/2509.14331)
+- [Discrete Flow-Based Generative Models for Measurement Optimization in Quantum Computing](https://arxiv.org/abs/2509.15486)
+- [Fault-tolerant quantum computing with a high-rate symplectic double code](https://arxiv.org/abs/2509.15457)
 
 
 ### Theorem
