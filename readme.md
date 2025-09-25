@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-September 24, 2025 at 01:26:38 AM UTC
+September 25, 2025 at 01:27:21 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ September 24, 2025 at 01:26:38 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (247)
+## Papers (249)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -270,6 +270,8 @@ September 24, 2025 at 01:26:38 AM UTC
 - [Discrete Flow-Based Generative Models for Measurement Optimization in Quantum Computing](https://arxiv.org/abs/2509.15486)
 - [Fault-tolerant quantum computing with a high-rate symplectic double code](https://arxiv.org/abs/2509.15457)
 - [Connecting Quantum Computing with Classical Stochastic Simulation](https://arxiv.org/abs/2509.18614)
+- [Quantum Computing Beyond Ground State Electronic Structure: A Review of Progress Toward Quantum Chemistry Out of the Ground State](https://arxiv.org/abs/2509.19709)
+- [Enhanced Fault-tolerance in Photonic Quantum Computing: Comparing the Honeycomb Floquet Code and the Surface Code in Tailored Architecture](https://arxiv.org/abs/2410.07065)
 
 
 ### Theorem
