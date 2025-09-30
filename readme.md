@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-September 29, 2025 at 01:37:22 AM UTC
+September 30, 2025 at 01:26:39 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ September 29, 2025 at 01:37:22 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (250)
+## Papers (252)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -273,6 +273,8 @@ September 29, 2025 at 01:37:22 AM UTC
 - [Quantum Computing Beyond Ground State Electronic Structure: A Review of Progress Toward Quantum Chemistry Out of the Ground State](https://arxiv.org/abs/2509.19709)
 - [Enhanced Fault-tolerance in Photonic Quantum Computing: Comparing the Honeycomb Floquet Code and the Surface Code in Tailored Architecture](https://arxiv.org/abs/2410.07065)
 - [Bridging Quantum Computing and Nuclear Structure: Atomic Nuclei on a Trapped-Ion Quantum Computer](https://arxiv.org/abs/2509.20642)
+- [Anticoherent kk-planes and coding techniques for a 3-qubit scheme of universal quantum computing](https://arxiv.org/abs/2509.23464)
+- [Leveraging Quantum Computing For Recourse-Based Energy Management Under PV Generation Uncertainty](https://arxiv.org/abs/2509.23133)
 
 
 ### Theorem
