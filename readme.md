@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-October 8, 2025 at 01:26:33 AM UTC
+October 9, 2025 at 01:26:55 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ October 8, 2025 at 01:26:33 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (259)
+## Papers (262)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -282,6 +282,9 @@ October 8, 2025 at 01:26:33 AM UTC
 - [Quantum computing for heavy-ion physics: near-term status and future prospects](https://arxiv.org/abs/2510.04207)
 - [Hybrid Sequential Quantum Computing](https://arxiv.org/abs/2510.05851)
 - [Fault-tolerant interfaces for modular quantum computing on diverse qubit platforms](https://arxiv.org/abs/2510.05221)
+- [Spin quantum computing, spin quantum cognition](https://arxiv.org/abs/2510.07196)
+- [Nonlinear photonic architecture for fault-tolerant quantum computing](https://arxiv.org/abs/2510.06890)
+- [Quantum Computing Methods for Malware Detection](https://arxiv.org/abs/2510.06803)
 
 
 ### Theorem
