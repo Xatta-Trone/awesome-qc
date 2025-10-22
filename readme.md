@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-October 21, 2025 at 01:38:54 AM UTC
+October 22, 2025 at 01:41:50 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ October 21, 2025 at 01:38:54 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (271)
+## Papers (273)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -294,6 +294,8 @@ October 21, 2025 at 01:38:54 AM UTC
 - [Privacy-Aware Framework of Robust Malware Detection in Indoor Robots: Hybrid Quantum Computing and Deep Neural Networks](https://arxiv.org/abs/2510.13136)
 - [Trajectory-Protected Quantum Computing](https://arxiv.org/abs/2510.12771)
 - [Achieving Sub-Exponential Speedup in Gate-Based Quantum Computing for Quadratic Unconstrained Binary Optimization](https://arxiv.org/abs/2510.15334)
+- [Grid-Partitioned MWIS Solving with Neutral Atom Quantum Computing for QUBO Problems](https://arxiv.org/abs/2510.18540)
+- [Quantum Computing Approach to Atomic and Molecular Three-Body Systems](https://arxiv.org/abs/2510.18005)
 
 
 ### Theorem
