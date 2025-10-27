@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-October 26, 2025 at 01:43:03 AM UTC
+October 27, 2025 at 01:46:51 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ October 26, 2025 at 01:43:03 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (276)
+## Papers (277)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -299,6 +299,7 @@ October 26, 2025 at 01:43:03 AM UTC
 - [Quantum Computing Hadron Fragmentation Functions in Light-Front Chromodynamics](https://arxiv.org/abs/2510.18869)
 - [A Gateway to Quantum Computing for Industrial Engineering](https://arxiv.org/abs/2510.20620)
 - [Higher-order quantum computing with known input states](https://arxiv.org/abs/2510.20530)
+- [Fragmentation of Virtual Orbitals for Quantum Computing: Reducing Qubit Requirements through Many-Body Expansion](https://arxiv.org/abs/2510.20950)
 
 
 ### Theorem
