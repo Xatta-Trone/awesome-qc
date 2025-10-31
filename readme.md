@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-October 30, 2025 at 01:42:47 AM UTC
+October 31, 2025 at 01:40:05 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ October 30, 2025 at 01:42:47 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (279)
+## Papers (281)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -302,6 +302,8 @@ October 30, 2025 at 01:42:47 AM UTC
 - [Fragmentation of Virtual Orbitals for Quantum Computing: Reducing Qubit Requirements through Many-Body Expansion](https://arxiv.org/abs/2510.20950)
 - [CMOS-compatible processing and room-temperature characterization on wafer-level for scalable quantum computing](https://arxiv.org/abs/2504.18173)
 - [Variational quantum computing for quantum simulation: principles, implementations, and challenges](https://arxiv.org/abs/2510.25449)
+- [Preparations for Quantum Computing in Hadron Physics](https://arxiv.org/abs/2510.26293)
+- [Overcoming disorder in superconducting globally-driven quantum computing](https://arxiv.org/abs/2510.25996)
 
 
 ### Theorem
