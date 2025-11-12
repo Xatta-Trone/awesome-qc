@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-November 11, 2025 at 01:42:43 AM UTC
+November 12, 2025 at 01:42:25 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ November 11, 2025 at 01:42:43 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (288)
+## Papers (291)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -311,6 +311,9 @@ November 11, 2025 at 01:42:43 AM UTC
 - [Security and Privacy Management of IoT Using Quantum Computing](https://arxiv.org/abs/2511.03538)
 - [TensorHyper-VQC: A Tensor-Train-Guided Hypernetwork for Robust and Scalable Variational Quantum Computing](https://arxiv.org/abs/2508.01116)
 - [CUNQA: a Distributed Quantum Computing emulator for HPC](https://arxiv.org/abs/2511.05209)
+- [Quantum computing quantum Monte Carlo algorithm](https://arxiv.org/abs/2206.10431)
+- [A Graphical Calculus for Quantum Computing with Multiple Qudits using Generalized Clifford Algebras](https://arxiv.org/abs/2103.16081)
+- [Beyond Penrose tensor diagrams with the ZX calculus: Applications to quantum computing, quantum machine learning, condensed matter physics, and quantum gravity](https://arxiv.org/abs/2511.06012)
 
 
 ### Theorem
