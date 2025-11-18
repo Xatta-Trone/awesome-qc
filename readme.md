@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-November 17, 2025 at 01:43:37 AM UTC
+November 18, 2025 at 01:41:46 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ November 17, 2025 at 01:43:37 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (294)
+## Papers (296)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -317,6 +317,8 @@ November 17, 2025 at 01:43:37 AM UTC
 - [Quantum computing and the stable set problem](https://arxiv.org/abs/2405.12845)
 - [Assessing Finite Scalability in Early Fault-Tolerant Quantum Computing for Homogeneous Catalysts](https://arxiv.org/abs/2511.10388)
 - [Coherent Optical Quantum Computing-Aided Resource Optimization for Transportation Digital Twin Construction](https://arxiv.org/abs/2511.09760)
+- [TrackHHL: A Quantum Computing Algorithm for Track Reconstruction at the LHCb](https://arxiv.org/abs/2511.11458)
+- [Hamiltonian simulation with explicit formulas for Digital-Analog Quantum Computing](https://arxiv.org/abs/2511.11404)
 
 
 ### Theorem
