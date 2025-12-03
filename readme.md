@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-December 2, 2025 at 01:45:38 AM UTC
+December 3, 2025 at 01:44:45 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ December 2, 2025 at 01:45:38 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (309)
+## Papers (312)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -332,6 +332,9 @@ December 2, 2025 at 01:45:38 AM UTC
 - [RapunSL: Untangling Quantum Computing with Separation, Linear Combination and Mixing](https://arxiv.org/abs/2511.23472)
 - [CO-QLink: Cryogenic Optical Link for Scalable Quantum Computing Systems and High-Performance Cryogenic Computing Systems](https://arxiv.org/abs/2511.22920)
 - [Programming tools for Analogue Quantum Computing in the High-Performance Computing Context -- A Review](https://arxiv.org/abs/2501.16943)
+- [Benchmarking Distributed Quantum Computing Emulators](https://arxiv.org/abs/2512.01807)
+- [Quantum computing applications in High Energy Physics: clustering, integration and generative models](https://arxiv.org/abs/2512.01597)
+- [Opportunities and Challenges for Data Quality in the Era of Quantum Computing](https://arxiv.org/abs/2512.00870)
 
 
 ### Theorem
