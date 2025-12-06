@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-December 5, 2025 at 01:45:44 AM UTC
+December 6, 2025 at 01:39:50 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ December 5, 2025 at 01:45:44 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (318)
+## Papers (320)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -341,6 +341,8 @@ December 5, 2025 at 01:45:44 AM UTC
 - [Distributed Quantum Computing with Fan-Out Operations and Qudits: the Case of Distributed Global Gates (a Preliminary Study)](https://arxiv.org/abs/2512.03685)
 - [Artificial Intelligence for Quantum Computing](https://arxiv.org/abs/2411.09131)
 - [Generating redundantly encoded resource states for photonic quantum computing](https://arxiv.org/abs/2512.03131)
+- [Towards practical secure delegated quantum computing with semi-classical light](https://arxiv.org/abs/2409.12103)
+- [Demonstration of surface-engineered oxidation-resistant Nb-Nb thermocompression bonding toward scalable superconducting quantum computing architectures](https://arxiv.org/abs/2512.04712)
 
 
 ### Theorem
