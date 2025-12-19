@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-December 18, 2025 at 01:44:35 AM UTC
+December 19, 2025 at 01:47:55 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ December 18, 2025 at 01:44:35 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (323)
+## Papers (325)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -346,6 +346,8 @@ December 18, 2025 at 01:44:35 AM UTC
 - [Advantage in distributed quantum computing with slow interconnects](https://arxiv.org/abs/2512.10693)
 - [Microgravity and Near-Absolute Zero: A New Frontier in Quantum Computing Hardware](https://arxiv.org/abs/2512.11091)
 - [A Joint Quantum Computing, Neural Network and Embedding Theory Approach for the Derivation of the Universal Functional](https://arxiv.org/abs/2512.13138)
+- [Bosonic quantum computing with near-term devices and beyond](https://arxiv.org/abs/2512.15063)
+- [Enabling Technologies for Scalable Superconducting Quantum Computing](https://arxiv.org/abs/2512.15001)
 
 
 ### Theorem
