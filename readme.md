@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-December 19, 2025 at 01:47:55 AM UTC
+December 20, 2025 at 01:42:30 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ December 19, 2025 at 01:47:55 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (325)
+## Papers (327)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -348,6 +348,8 @@ December 19, 2025 at 01:47:55 AM UTC
 - [A Joint Quantum Computing, Neural Network and Embedding Theory Approach for the Derivation of the Universal Functional](https://arxiv.org/abs/2512.13138)
 - [Bosonic quantum computing with near-term devices and beyond](https://arxiv.org/abs/2512.15063)
 - [Enabling Technologies for Scalable Superconducting Quantum Computing](https://arxiv.org/abs/2512.15001)
+- [QuantumSavory: Write Symbolically, Run on Any Backend -- A Unified Simulation Toolkit for Quantum Computing and Networking](https://arxiv.org/abs/2512.16752)
+- [Scalable low-latency entanglement distribution for distributed quantum computing](https://arxiv.org/abs/2504.05567)
 
 
 ### Theorem
