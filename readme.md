@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-December 23, 2025 at 01:48:55 AM UTC
+December 24, 2025 at 01:47:21 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ December 23, 2025 at 01:48:55 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (328)
+## Papers (330)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -351,6 +351,8 @@ December 23, 2025 at 01:48:55 AM UTC
 - [QuantumSavory: Write Symbolically, Run on Any Backend -- A Unified Simulation Toolkit for Quantum Computing and Networking](https://arxiv.org/abs/2512.16752)
 - [Scalable low-latency entanglement distribution for distributed quantum computing](https://arxiv.org/abs/2504.05567)
 - [Digital-Analog Quantum Computing with Qudits](https://arxiv.org/abs/2512.17697)
+- [The EU Quantum Flagship's Key Performance Indicators for Quantum Computing](https://arxiv.org/abs/2512.19653)
+- [DeepQuantum: A PyTorch-based Software Platform for Quantum Machine Learning and Photonic Quantum Computing](https://arxiv.org/abs/2512.18995)
 
 
 ### Theorem
