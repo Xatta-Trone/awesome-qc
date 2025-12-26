@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-December 25, 2025 at 01:49:11 AM UTC
+December 26, 2025 at 01:48:30 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ December 25, 2025 at 01:49:11 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (330)
+## Papers (332)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -353,6 +353,8 @@ December 25, 2025 at 01:49:11 AM UTC
 - [Digital-Analog Quantum Computing with Qudits](https://arxiv.org/abs/2512.17697)
 - [The EU Quantum Flagship's Key Performance Indicators for Quantum Computing](https://arxiv.org/abs/2512.19653)
 - [DeepQuantum: A PyTorch-based Software Platform for Quantum Machine Learning and Photonic Quantum Computing](https://arxiv.org/abs/2512.18995)
+- [Validation of Quantum Computing for Transition Metal Oxide-based Automotive Catalysis](https://arxiv.org/abs/2512.19778)
+- [The Benefits and Challenges of a Quantum Computing Concept Inventory](https://arxiv.org/abs/2512.20836)
 
 
 ### Theorem
