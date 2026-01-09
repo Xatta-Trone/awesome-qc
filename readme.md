@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-January 7, 2026 at 01:51:10 AM UTC
+January 9, 2026 at 01:52:19 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ January 7, 2026 at 01:51:10 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (342)
+## Papers (344)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -365,6 +365,8 @@ January 7, 2026 at 01:51:10 AM UTC
 - [Single- and Multi-Objective Stochastic Optimization for Next-Generation Networks in the Generative AI and Quantum Computing Era](https://arxiv.org/abs/2601.02175)
 - [A Survey on Applications of Quantum Computing for Unit Commitment](https://arxiv.org/abs/2601.01777)
 - [Design and Characterization of Compact Acousto-Optic-Deflector Individual Addressing System for Trapped-Ion Quantum Computing](https://arxiv.org/abs/2601.01647)
+- [Quantum computing for multidimensional option pricing: End-to-end pipeline](https://arxiv.org/abs/2601.04049)
+- [Energetics of Rydberg-atom Quantum Computing](https://arxiv.org/abs/2601.03141)
 
 
 ### Theorem
