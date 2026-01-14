@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-January 13, 2026 at 01:48:50 AM UTC
+January 14, 2026 at 01:55:54 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ January 13, 2026 at 01:48:50 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (344)
+## Papers (347)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -367,6 +367,9 @@ January 13, 2026 at 01:48:50 AM UTC
 - [Design and Characterization of Compact Acousto-Optic-Deflector Individual Addressing System for Trapped-Ion Quantum Computing](https://arxiv.org/abs/2601.01647)
 - [Quantum computing for multidimensional option pricing: End-to-end pipeline](https://arxiv.org/abs/2601.04049)
 - [Energetics of Rydberg-atom Quantum Computing](https://arxiv.org/abs/2601.03141)
+- [Mechanical Resonator-based Quantum Computing](https://arxiv.org/abs/2601.07825)
+- [Thermodynamic Recycling in Quantum Computing: Demonstration Using the Harrow-Hassidim-Lloyd Algorithm and Information Erasure](https://arxiv.org/abs/2601.07522)
+- [Fault-tolerant modular quantum computing with surface codes using single-shot emission-based hardware](https://arxiv.org/abs/2601.07241)
 
 
 ### Theorem
