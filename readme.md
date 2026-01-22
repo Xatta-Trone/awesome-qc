@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-January 21, 2026 at 01:55:18 AM UTC
+January 22, 2026 at 01:56:06 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ January 21, 2026 at 01:55:18 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (353)
+## Papers (356)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -376,6 +376,9 @@ January 21, 2026 at 01:55:18 AM UTC
 - [Network-Based Quantum Computing: an efficient design framework for many-small-node distributed fault-tolerant quantum computing](https://arxiv.org/abs/2601.09374)
 - [Quantifying the properties of evolutionary quantum states of the XXZ spin model using quantum computing](https://arxiv.org/abs/2601.10650)
 - [Three Months in the Life of Cloud Quantum Computing](https://arxiv.org/abs/2601.09943)
+- [Overcoming disorder in superconducting globally driven quantum computing](https://arxiv.org/abs/2510.25996)
+- [Macroscopic quantum phenomena and quantum computing](https://arxiv.org/abs/2510.19846)
+- [QSteed: A Resource-Virtualized and Hardware-Aware Quantum Compilation Framework for Real Quantum Computing Processors](https://arxiv.org/abs/2501.06993)
 
 
 ### Theorem
