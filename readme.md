@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-January 22, 2026 at 01:56:06 AM UTC
+January 23, 2026 at 01:52:11 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ January 22, 2026 at 01:56:06 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (356)
+## Papers (358)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -379,6 +379,8 @@ January 22, 2026 at 01:56:06 AM UTC
 - [Overcoming disorder in superconducting globally driven quantum computing](https://arxiv.org/abs/2510.25996)
 - [Macroscopic quantum phenomena and quantum computing](https://arxiv.org/abs/2510.19846)
 - [QSteed: A Resource-Virtualized and Hardware-Aware Quantum Compilation Framework for Real Quantum Computing Processors](https://arxiv.org/abs/2501.06993)
+- [Buried Dirac points in quantum spin Hall insulators: Implications for Majorana Kramers pair-based quantum computing](https://arxiv.org/abs/2409.19052)
+- [On Distributed Quantum Computing with Distributed Fan-Out Operations](https://arxiv.org/abs/2601.14734)
 
 
 ### Theorem
