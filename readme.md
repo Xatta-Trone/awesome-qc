@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-February 4, 2026 at 02:10:38 AM UTC
+February 5, 2026 at 02:11:39 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ February 4, 2026 at 02:10:38 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (366)
+## Papers (370)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -389,6 +389,10 @@ February 4, 2026 at 02:10:38 AM UTC
 - [Computer Science Challenges in Quantum Computing: Early Fault-Tolerance and Beyond](https://arxiv.org/abs/2601.20247)
 - [High-Coherence and High-frequency Quantum Computing: The Design of a High-Frequency, High-Coherence and Scalable Quantum Computing Architecture](https://arxiv.org/abs/2601.21528)
 - [Dispersive Microwave Sensing for Quantum Computing with Floating Electrons](https://arxiv.org/abs/2601.21313)
+- [A Quantum Computing Framework for VLBI Data Correlation](https://arxiv.org/abs/2602.04269)
+- [Data Verification is the Future of Quantum Computing Copilots](https://arxiv.org/abs/2602.04072)
+- [Quantum Computing for Electronic Circular Dichroism Spectrum Prediction of Chiral Molecules](https://arxiv.org/abs/2602.03710)
+- [Optimal Effective Hamiltonian for Quantum Computing and Simulation](https://arxiv.org/abs/2602.03618)
 
 
 ### Theorem
