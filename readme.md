@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-February 25, 2026 at 02:22:45 AM UTC
+February 26, 2026 at 02:11:28 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ February 25, 2026 at 02:22:45 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (383)
+## Papers (384)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -406,6 +406,7 @@ February 25, 2026 at 02:22:45 AM UTC
 - [Free Quantum Computing](https://arxiv.org/abs/2602.16927)
 - [Kaiwu-PyTorch-Plugin: Bridging Deep Learning and Photonic Quantum Computing for Energy-Based Models and Active Sample Selection](https://arxiv.org/abs/2602.19114)
 - [A Unified Error Correction Code for Universal Quantum Computing with Identical Particles](https://arxiv.org/abs/2602.20452)
+- [Quantum Computing for Query Containment of Conjunctive Queries](https://arxiv.org/abs/2602.21803)
 
 
 ### Theorem
