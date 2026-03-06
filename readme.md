@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-March 5, 2026 at 02:12:24 AM UTC
+March 6, 2026 at 02:10:48 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ March 5, 2026 at 02:12:24 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (393)
+## Papers (396)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -416,6 +416,9 @@ March 5, 2026 at 02:12:24 AM UTC
 - [Distributed Quantum Computing with Fan-Out Operations and Qudits: the Case of Distributed Global Gates](https://arxiv.org/abs/2512.03685)
 - [Quantum anomaly for benchmarking quantum computing](https://arxiv.org/abs/2603.03697)
 - [Efficient Image Reconstruction Architecture for Neutral Atom Quantum Computing](https://arxiv.org/abs/2603.03149)
+- [Physics and computation: An insight from non-Hermitian quantum computing](https://arxiv.org/abs/2506.18012)
+- [HyQBench: A Benchmark Suite for Hybrid CV-DV Quantum Computing](https://arxiv.org/abs/2603.04398)
+- [Efficient Time-Aware Partitioning of Quantum Circuits for Distributed Quantum Computing](https://arxiv.org/abs/2603.04126)
 
 
 ### Theorem
