@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-March 8, 2026 at 02:21:51 AM UTC
+March 9, 2026 at 02:23:12 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ March 8, 2026 at 02:21:51 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (396)
+## Papers (398)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -419,6 +419,8 @@ March 8, 2026 at 02:21:51 AM UTC
 - [Physics and computation: An insight from non-Hermitian quantum computing](https://arxiv.org/abs/2506.18012)
 - [HyQBench: A Benchmark Suite for Hybrid CV-DV Quantum Computing](https://arxiv.org/abs/2603.04398)
 - [Efficient Time-Aware Partitioning of Quantum Circuits for Distributed Quantum Computing](https://arxiv.org/abs/2603.04126)
+- [Performance Comparison of Gate-Based and Adiabatic Quantum Computing for AC Power Flow Problem](https://arxiv.org/abs/2510.13378)
+- [Rovibrational energy levels of H_2_2O by quantum computing](https://arxiv.org/abs/2603.05795)
 
 
 ### Theorem
