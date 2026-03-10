@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-March 9, 2026 at 02:23:12 AM UTC
+March 10, 2026 at 02:08:24 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ March 9, 2026 at 02:23:12 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (398)
+## Papers (400)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -421,6 +421,8 @@ March 9, 2026 at 02:23:12 AM UTC
 - [Efficient Time-Aware Partitioning of Quantum Circuits for Distributed Quantum Computing](https://arxiv.org/abs/2603.04126)
 - [Performance Comparison of Gate-Based and Adiabatic Quantum Computing for AC Power Flow Problem](https://arxiv.org/abs/2510.13378)
 - [Rovibrational energy levels of H_2_2O by quantum computing](https://arxiv.org/abs/2603.05795)
+- [Sharpening Worst-Case Error Assessment for Fault-Tolerant Quantum Computing: Fidelity and Its Deviation](https://arxiv.org/abs/2603.07495)
+- [Securing Cryptography in the Age of Quantum Computing and AI: Threats, Implementations, and Strategic Response](https://arxiv.org/abs/2603.06969)
 
 
 ### Theorem
