@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-April 8, 2026 at 02:35:15 AM UTC
+April 9, 2026 at 02:30:40 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ April 8, 2026 at 02:35:15 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (422)
+## Papers (424)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -445,6 +445,8 @@ April 8, 2026 at 02:35:15 AM UTC
 - [Blind quantum computing with different qudit resource state architectures](https://arxiv.org/abs/2510.06323)
 - [Novel permanent magnet array geometries for scalable trapped-ion quantum computing in a laser-free entanglement architecture](https://arxiv.org/abs/2604.03116)
 - [Advances in Josephson Junction Materials and Processes Toward Practical Quantum Computing](https://arxiv.org/abs/2505.12724)
+- [Broken Quantum: A Systematic Formal Verification Study of Security Vulnerabilities Across the Open-Source Quantum Computing Simulator Ecosystem](https://arxiv.org/abs/2604.06712)
+- [Heterogeneous architectures enable a 138x reduction in physical qubit requirements for fault-tolerant quantum computing under detailed accounting](https://arxiv.org/abs/2604.06319)
 
 
 ### Theorem
