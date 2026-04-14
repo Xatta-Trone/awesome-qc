@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-April 13, 2026 at 02:50:24 AM UTC
+April 14, 2026 at 02:42:54 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ April 13, 2026 at 02:50:24 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (428)
+## Papers (431)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -451,6 +451,9 @@ April 13, 2026 at 02:50:24 AM UTC
 - [Towards defending crosstalk-mediated attacks in multi-tenant quantum computing](https://arxiv.org/abs/2409.14598)
 - [Quantum Computing for Financial Transformation: A Review of Optimisation, Pricing, Risk, Machine Learning, and Post-Quantum Security](https://arxiv.org/abs/2604.08180)
 - [A Review of Variational Quantum Algorithms: Insights into Fault-Tolerant Quantum Computing](https://arxiv.org/abs/2604.07909)
+- [Improved quasiparticle nuclear Hamiltonians for quantum computing](https://arxiv.org/abs/2604.11381)
+- [Symplectic perspective to quantum computing for Hamiltonian systems](https://arxiv.org/abs/2604.10794)
+- [An Undergraduate Course in Quantum Computing](https://arxiv.org/abs/2604.10396)
 
 
 ### Theorem
