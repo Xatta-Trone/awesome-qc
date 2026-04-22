@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-April 21, 2026 at 02:44:25 AM UTC
+April 22, 2026 at 02:42:20 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ April 21, 2026 at 02:44:25 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (439)
+## Papers (443)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -462,6 +462,10 @@ April 21, 2026 at 02:44:25 AM UTC
 - [Empirical Investigation of Quantum Computing Toolchains and Algorithms : Mining Stack Overflow Repository](https://arxiv.org/abs/2604.15512)
 - [Quantum Computing of Phonon Spectra and Thermal Properties of Crystalline Solids](https://arxiv.org/abs/2604.16863)
 - [Potential Energy Savings from Quantum Computing-Based Route Optimization](https://arxiv.org/abs/2604.16718)
+- [The Rise of Quantum Computing -- Take a BITE for Built Environment and Urban Microclimate Research](https://arxiv.org/abs/2604.18407)
+- [Cross Waveguide Design for Color-Centers in Diamond for Photonic Quantum Computing](https://arxiv.org/abs/2604.19594)
+- [Fault-Tolerant Quantum Computing with Trapped Ions: The Walking Cat Architecture](https://arxiv.org/abs/2604.19481)
+- [Perspective: Quantum Computing on Magnetic Racetrack](https://arxiv.org/abs/2604.19304)
 
 
 ### Theorem
