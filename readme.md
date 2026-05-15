@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-May 14, 2026 at 03:34:03 AM UTC
+May 15, 2026 at 03:37:27 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ May 14, 2026 at 03:34:03 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (463)
+## Papers (465)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -486,6 +486,8 @@ May 14, 2026 at 03:34:03 AM UTC
 - [Estimating The Energy Consumption of Quantum Computing from A Full System Aspect](https://arxiv.org/abs/2605.09580)
 - [The Quantum Hamiltonian Analysis Toolkit: Lowering the Barrier to Quantum Computing with Hamiltonians](https://arxiv.org/abs/2605.11162)
 - [Tolerating Device Failure in Distributed Quantum Computing](https://arxiv.org/abs/2605.11088)
+- [Toward Covert Quantum Computing](https://arxiv.org/abs/2605.14325)
+- [Nonlinear Coherent Transport in 2D Thermal Metamaterials: From Solitons and Topological Defects to Quantum Computing](https://arxiv.org/abs/2605.08162)
 
 
 ### Theorem
