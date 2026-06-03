@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-June 2, 2026 at 04:07:24 AM UTC
+June 3, 2026 at 04:17:08 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ June 2, 2026 at 04:07:24 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (472)
+## Papers (475)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -495,6 +495,9 @@ June 2, 2026 at 04:07:24 AM UTC
 - [Twisted light generates robust many-body states for practical quantum computing](https://arxiv.org/abs/2605.19873)
 - [Qiskit QuantumKatas: Adapting Microsoft's Quantum Computing exercises for LLM evaluation](https://arxiv.org/abs/2605.27210)
 - [On the question of noise as a resource in quantum computing](https://arxiv.org/abs/2605.30026)
+- [Forecasting Conceptual Diffusion in Science: The Case of Quantum Computing](https://arxiv.org/abs/2606.03919)
+- [A Voxel-Based Quantum Computing Method (VBQC) for Solid Mechanics Problem](https://arxiv.org/abs/2606.03515)
+- [FPGA Based Feedforward System for Photonic Quantum Computing Applications](https://arxiv.org/abs/2606.03500)
 
 
 ### Theorem
