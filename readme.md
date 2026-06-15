@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-June 14, 2026 at 04:14:01 AM UTC
+June 15, 2026 at 04:24:49 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ June 14, 2026 at 04:14:01 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (479)
+## Papers (482)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -502,6 +502,9 @@ June 14, 2026 at 04:14:01 AM UTC
 - [Quantum Computing Standards & Accounting Information Systems](https://arxiv.org/abs/2311.11925)
 - [Measuring Control-Plane Openness in Near-Term Quantum Computing: A Rubric, Its Validation, and an Application to Thirteen Vendor Stacks](https://arxiv.org/abs/2605.15233)
 - [Exploring fair access to quantum computing](https://arxiv.org/abs/2606.13027)
+- [Quantum Horizon: An evaluation of quantum computing as a threat to Bitcoin and Ethereum](https://arxiv.org/abs/2606.14484)
+- [Sensitivity of polaron-molecule observables to MDR/GUP-like ultraviolet deformations at low energies via quantum computing](https://arxiv.org/abs/2606.14479)
+- [QCI Connect: A Modular Full-Stack Quantum Computing Platform](https://arxiv.org/abs/2606.14456)
 
 
 ### Theorem
