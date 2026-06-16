@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-June 15, 2026 at 04:24:49 AM UTC
+June 16, 2026 at 04:20:43 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ June 15, 2026 at 04:24:49 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (482)
+## Papers (484)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -505,6 +505,8 @@ June 15, 2026 at 04:24:49 AM UTC
 - [Quantum Horizon: An evaluation of quantum computing as a threat to Bitcoin and Ethereum](https://arxiv.org/abs/2606.14484)
 - [Sensitivity of polaron-molecule observables to MDR/GUP-like ultraviolet deformations at low energies via quantum computing](https://arxiv.org/abs/2606.14479)
 - [QCI Connect: A Modular Full-Stack Quantum Computing Platform](https://arxiv.org/abs/2606.14456)
+- [Hadronic tensor in lattice gauge theories by quantum computing](https://arxiv.org/abs/2606.17003)
+- [Learning ground state observables from quantum computing experiments](https://arxiv.org/abs/2606.15983)
 
 
 ### Theorem
