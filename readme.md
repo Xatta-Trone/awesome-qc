@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-July 6, 2026 at 03:40:03 AM UTC
+July 7, 2026 at 03:31:42 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ July 6, 2026 at 03:40:03 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (491)
+## Papers (493)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -514,6 +514,8 @@ July 6, 2026 at 03:40:03 AM UTC
 - [Quantum Cinema: An Interactive Cinematic Exploration of Quantum Computing Hardware via Generative World Models](https://arxiv.org/abs/2606.17102)
 - [Efficient foundation decoders for fault-tolerant quantum computing](https://arxiv.org/abs/2606.27119)
 - [Structure-Aware Compilation for Scalable Neutral-Atom Quantum Computing](https://arxiv.org/abs/2607.01787)
+- [Tutorial: Gate-based superconducting quantum computing](https://arxiv.org/abs/2009.08021)
+- [Quantum Computing and Data Processing for Frequent Itemset Mining](https://arxiv.org/abs/2606.09209)
 
 
 ### Theorem
