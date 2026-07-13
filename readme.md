@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-July 10, 2026 at 03:27:25 AM UTC
+July 13, 2026 at 02:54:07 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ July 10, 2026 at 03:27:25 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (499)
+## Papers (500)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -522,6 +522,7 @@ July 10, 2026 at 03:27:25 AM UTC
 - [Overview of Applications of Quantum Computing in QCD](https://arxiv.org/abs/2607.08169)
 - [Nuclear Many-Body Systems as Benchmarks for Quantum Computing](https://arxiv.org/abs/2607.08047)
 - [Measurement-Based Quantum Computing on a Photonic Chip](https://arxiv.org/abs/2607.07890)
+- [Quantum Computing Demonstration of the Polaron-Molecule Transition on a NISQ Device](https://arxiv.org/abs/2601.18839)
 
 
 ### Theorem
