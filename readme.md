@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-August 20, 2026 at 01:16:25 AM UTC
+August 21, 2026 at 01:20:14 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ August 20, 2026 at 01:16:25 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (530)
+## Papers (531)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -553,6 +553,7 @@ August 20, 2026 at 01:16:25 AM UTC
 - [Photonic Quantum Computing vs. Classical Solvers in Constrained Factor Portfolio Optimization](https://arxiv.org/abs/2608.14134)
 - [Assessing student learning in quantum computing: Lessons from developing a test item on phase kickback](https://arxiv.org/abs/2602.22388)
 - [Scientific applications of quantum computing: challenges and opportunities](https://arxiv.org/abs/2608.16568)
+- [Reducing the Complexity of Matrix Multiplication by Quantum Computing](https://arxiv.org/abs/2602.05541)
 
 
 ### Theorem
