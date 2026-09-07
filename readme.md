@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-September 6, 2026 at 03:23:38 AM UTC
+September 7, 2026 at 03:22:51 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ September 6, 2026 at 03:23:38 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (540)
+## Papers (541)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -563,6 +563,7 @@ September 6, 2026 at 03:23:38 AM UTC
 - [Low-Thrust Trajectory Optimization with Quantum Computing and Sequential Convex Programming](https://arxiv.org/abs/2609.00861)
 - [Need One Bell-pair Only (NOBOL) for Low-Overhead Fault-Tolerant Quantum Computing](https://arxiv.org/abs/2609.01901)
 - [Algebraic Operator Decomposition: A Partitioned Architecture for Noise-Resilient Quantum Computing](https://arxiv.org/abs/2609.04076)
+- [DPRQ: A Dynamic Programming-based Qubit Routing Algorithm for Collective Communication in Distributed Quantum Computing](https://arxiv.org/abs/2609.04524)
 
 
 ### Theorem
