@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-September 13, 2026 at 03:40:20 AM UTC
+September 14, 2026 at 03:49:14 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ September 13, 2026 at 03:40:20 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (545)
+## Papers (546)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -568,6 +568,7 @@ September 13, 2026 at 03:40:20 AM UTC
 - [Noise Limits on Fault-Tolerant Fermionic Quantum Computing](https://arxiv.org/abs/2609.09467)
 - [Low-cost algorithm-to-execution framework for surface-code quantum computing](https://arxiv.org/abs/2609.10965)
 - [Distributed variational quantum computing with deterministic entanglement tuning](https://arxiv.org/abs/2609.10932)
+- [Extremely Low-Cost Magic State Preparation toward Fault-Tolerant Quantum Computing](https://arxiv.org/abs/2609.12698)
 
 
 ### Theorem
