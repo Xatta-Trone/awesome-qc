@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-September 21, 2026 at 03:48:00 AM UTC
+September 22, 2026 at 03:45:47 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ September 21, 2026 at 03:48:00 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (555)
+## Papers (559)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -578,6 +578,10 @@ September 21, 2026 at 03:48:00 AM UTC
 - [Neutral atom quantum computing for materials science and quantum chemistry](https://arxiv.org/abs/2609.20464)
 - [Single-atom-based asynchronous photonic interconnect for scalable modular quantum computing](https://arxiv.org/abs/2609.21961)
 - [A System Architecture for Low Latency Multiprogramming Quantum Computing](https://arxiv.org/abs/2601.01158)
+- [A thermal microwave bus for neutral atom quantum computing](https://arxiv.org/abs/2609.24933)
+- [QuantumSavory: symbolic modeling and multi-backend simulation of quantum computing and networking systems](https://arxiv.org/abs/2512.16752)
+- [Quantum Computing Solution of the Bethe-Salpeter Equation for Relativistic Scalar Bound States via Tensor-Network VQE](https://arxiv.org/abs/2609.24282)
+- [A Carbon-Aware Quantum Computing Framework for LCA-Driven Sustainability in Quantum Cloud Services](https://arxiv.org/abs/2609.24224)
 
 
 ### Theorem
