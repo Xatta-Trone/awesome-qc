@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-September 23, 2026 at 03:44:17 AM UTC
+September 24, 2026 at 03:36:01 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ September 23, 2026 at 03:44:17 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (560)
+## Papers (561)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -583,6 +583,7 @@ September 23, 2026 at 03:44:17 AM UTC
 - [Quantum Computing Solution of the Bethe-Salpeter Equation for Relativistic Scalar Bound States via Tensor-Network VQE](https://arxiv.org/abs/2609.24282)
 - [A Carbon-Aware Quantum Computing Framework for LCA-Driven Sustainability in Quantum Cloud Services](https://arxiv.org/abs/2609.24224)
 - [Error Suppression in Distributed Quantum Computing with Heterogeneous-Distance Lattice Surgery](https://arxiv.org/abs/2609.26784)
+- [Entanglement of multi-qubit quantum graph states and studies structural properties of tripartite graphs with quantum computing](https://arxiv.org/abs/2604.27829)
 
 
 ### Theorem
