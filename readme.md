@@ -7,7 +7,7 @@ A thoughtfully curated collection of exceptional libraries, projects, tutorials,
 Our repository is **automatically updated** with the latest **Quantum Computing-related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Quantum Computing-related.
 
 ## Last Updated
-October 6, 2026 at 05:18:52 AM UTC
+October 7, 2026 at 04:47:47 AM UTC
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ October 6, 2026 at 05:18:52 AM UTC
   - [License](#license)
   - [Star History](#star-history)
 
-## Papers (568)
+## Papers (569)
 - [IBM infosphere streams for scalable, real-time, intelligent transportation services](https://dl.acm.org/doi/10.1145/1807167.1807291)
 - [Data management challenges for computational transportation](https://dl.acm.org/doi/10.4108/ICST.MOBIQUITOUS2008.4014)
 - [35 years of excellence in computational methods for transportation science and technology](https://onlinelibrary.wiley.com/doi/10.1111/mice.12610)
@@ -591,6 +591,7 @@ October 6, 2026 at 05:18:52 AM UTC
 - [Towards quantum computing Feynman diagrams in hybrid qubit-oscillator devices](https://arxiv.org/abs/2411.05092)
 - [Compiling Together: High-Throughput Distributed Quantum Computing via Multi-Compilation](https://arxiv.org/abs/2610.03260)
 - [Hybrid Classical-Quantum Solutions to Accelerate the Adoption of Quantum Computing](https://arxiv.org/abs/2610.06638)
+- [Variational quantum-algorithm based self-consistent calculations for the two-site DMFT model on noisy quantum computing hardware](https://arxiv.org/abs/2311.10402)
 
 
 ### Theorem
